@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/AeromaxWeb/static/css/main.d81158db.css",
+    "main.js": "/AeromaxWeb/static/js/main.096aa4fc.js",
+    "static/media/windows11.png": "/AeromaxWeb/static/media/windows11.71372cee61853fb72ab0.png",
+    "static/media/niño.png": "/AeromaxWeb/static/media/niño.4329c94372c9ecb59e5e.png",
+    "static/media/pc.png": "/AeromaxWeb/static/media/pc.c59d59c239b22df1133f.png",
+    "static/media/hardware.png": "/AeromaxWeb/static/media/hardware.c8d2316d2af1e9bd5185.png",
+    "static/media/Computadora.png": "/AeromaxWeb/static/media/Computadora.f407b88c58f65c11e2db.png",
+    "static/media/softwareInstalation.png": "/AeromaxWeb/static/media/softwareInstalation.075db22163987983d537.png",
+    "static/media/repair-banner.png": "/AeromaxWeb/static/media/repair-banner.128ad109bfba0eed43df.png",
+    "static/media/audifonos.png": "/AeromaxWeb/static/media/audifonos.7872de779a3cdfad8d43.png",
+    "static/media/repair.png": "/AeromaxWeb/static/media/repair.42c89502a0a3070cf291.png",
+    "static/media/LaptopCatalogue.png": "/AeromaxWeb/static/media/LaptopCatalogue.37a5f0a74bf936676326.png",
+    "static/media/pcGamer.png": "/AeromaxWeb/static/media/pcGamer.f020d746f42a5cff6eda.png",
+    "static/media/hardwarePcCatalogue.png": "/AeromaxWeb/static/media/hardwarePcCatalogue.aac68d742162ee1df92f.png",
+    "static/media/ingeniero.png": "/AeromaxWeb/static/media/ingeniero.7ea7073c9f67ca79a43e.png",
+    "static/media/mice.png": "/AeromaxWeb/static/media/mice.37da64a5b09ba70186f6.png",
+    "static/media/software_banner.png": "/AeromaxWeb/static/media/software_banner.c30cb9e57e745f6d76d8.png",
+    "index.html": "/AeromaxWeb/index.html",
+    "main.d81158db.css.map": "/AeromaxWeb/static/css/main.d81158db.css.map",
+    "main.096aa4fc.js.map": "/AeromaxWeb/static/js/main.096aa4fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d81158db.css",
+    "static/js/main.096aa4fc.js"
+  ]
+}
